@@ -4,10 +4,9 @@
 
 <h2>Tarjeta Credito</h2>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+Esta aplicación es un CRUD (create, remove, update, delete) que ha sido creada mediante Angular. La aplicación está conectada con una base de datos en Firebase.
 
-
-**Please support this project by simply putting a Github star ⭐. Share this repo with friends on Twitter and everywhere else you can. 🙏 Thanks**
+#
 
 <h3>:books: Getting started</h3>
 
